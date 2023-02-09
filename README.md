@@ -26,3 +26,13 @@ The dataset has 550,069 rows and 12 columns
 |     9     |     Product_Category_2     |  float64  |       Category of product       | True   |
 |     10    |     Product_Category_3     |  float64  |       Category of product       | True   |
 |     11    |          Purchase          |   int64   |         Purchase amount         | False  |
+
+Data Cleanning:
+
+- There are 5891 users in the dataset and 3631 uique products
+- 31% of Product_Category_2 and 69% of Product_Category_3 has missing values.
+
+## Exploratory Data Analysis:
+
+
+## Modelling
