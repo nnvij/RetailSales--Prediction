@@ -35,6 +35,7 @@ The dataset has 550,069 rows and 12 columns
   - Age group 26-35 has the highest total purchase across age groups
   - Product category 0 has highest revenue of purchase and Product category 4 has highest number of purchases
   - Unmarried customers in the age group of 26-35 have highest total purchase amount as compared to other customers
+  - Maximum purchases where customer have stayed in the city only for 1 year
 
 ![image](https://user-images.githubusercontent.com/103464406/218009159-c83bd506-4ff6-4634-b1c7-e57f827911b1.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009176-bbb80aad-c939-47aa-aee2-ec0632fccf2b.png)
@@ -48,6 +49,7 @@ The dataset has 550,069 rows and 12 columns
 ![image](https://user-images.githubusercontent.com/103464406/218009295-86f598f7-ed23-4b7d-a2a6-11f89aea1102.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009337-43927dfc-6185-41c3-962d-3b76682ab88f.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009949-e9b19c79-a789-4adc-b7a0-6939ae67c797.png)
+![newplot - 2023-02-10T012343 639](https://user-images.githubusercontent.com/103464406/218018336-0444122e-dbce-44a7-9aa5-c8c5714552ab.png)
 
 
 ## Data Preprocessing:
@@ -64,6 +66,7 @@ The dataset has 550,069 rows and 12 columns
 ![image](https://user-images.githubusercontent.com/103464406/218016171-9fa215b3-2bf6-44d3-8254-ec21ef14070a.png)
 ![image](https://user-images.githubusercontent.com/103464406/218016268-492a5bd0-29f6-4f41-bf0c-1a464fae24f2.png)
 ![image](https://user-images.githubusercontent.com/103464406/218016306-4d06a8f5-8ca3-45fd-886f-f4276418c282.png)
+
 - Product category_1 seem to have highest effect on purchase
 - Surprisingly gender has the least effect on purchase
 
