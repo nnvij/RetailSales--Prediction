@@ -35,7 +35,7 @@ The dataset has 550,069 rows and 12 columns
   - Age group 26-35 has the highest total purchase across age groups
   - Product category 0 has highest revenue of purchase and Product category 4 has highest number of purchases
   - Unmarried customers in the age group of 26-35 have highest total purchase amount as compared to other customers
-![image](https://user-images.githubusercontent.com/103464406/218009404-3930913f-3c55-4b36-a7fd-b83e1bc80b04.png)
+
 ![image](https://user-images.githubusercontent.com/103464406/218009159-c83bd506-4ff6-4634-b1c7-e57f827911b1.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009176-bbb80aad-c939-47aa-aee2-ec0632fccf2b.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008941-34dc24c1-cc6c-4a11-8464-bcd4a7915ee2.png)
