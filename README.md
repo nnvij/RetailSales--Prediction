@@ -42,6 +42,7 @@ The dataset has 550,069 rows and 12 columns
 ![image](https://user-images.githubusercontent.com/103464406/218009042-89c50ed4-cee5-4515-bfe1-124687d8eac7.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009295-86f598f7-ed23-4b7d-a2a6-11f89aea1102.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009337-43927dfc-6185-41c3-962d-3b76682ab88f.png)
+![image](https://user-images.githubusercontent.com/103464406/218009949-e9b19c79-a789-4adc-b7a0-6939ae67c797.png)
 
 
 ## Data Preprocessing:
