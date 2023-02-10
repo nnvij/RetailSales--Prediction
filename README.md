@@ -40,6 +40,7 @@ The dataset has 550,069 rows and 12 columns
 ![image](https://user-images.githubusercontent.com/103464406/218009159-c83bd506-4ff6-4634-b1c7-e57f827911b1.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009176-bbb80aad-c939-47aa-aee2-ec0632fccf2b.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008941-34dc24c1-cc6c-4a11-8464-bcd4a7915ee2.png)
+![image](https://user-images.githubusercontent.com/103464406/218018611-be6dbe36-5051-4e29-a025-ec8d3db6346a.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008902-7e533e3d-dd7b-4e97-a5de-63caef13f217.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008959-c5f25aec-b153-41f6-a832-096b54905dc1.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008979-6911cf5c-b129-496c-a5c5-0259b3ea366b.png)
@@ -48,8 +49,9 @@ The dataset has 550,069 rows and 12 columns
 ![image](https://user-images.githubusercontent.com/103464406/218009042-89c50ed4-cee5-4515-bfe1-124687d8eac7.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009295-86f598f7-ed23-4b7d-a2a6-11f89aea1102.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009337-43927dfc-6185-41c3-962d-3b76682ab88f.png)
-![image](https://user-images.githubusercontent.com/103464406/218009949-e9b19c79-a789-4adc-b7a0-6939ae67c797.png)
 ![newplot - 2023-02-10T012343 639](https://user-images.githubusercontent.com/103464406/218018336-0444122e-dbce-44a7-9aa5-c8c5714552ab.png)
+![image](https://user-images.githubusercontent.com/103464406/218009949-e9b19c79-a789-4adc-b7a0-6939ae67c797.png)
+
 
 
 ## Data Preprocessing:
