@@ -53,5 +53,18 @@ The dataset has 550,069 rows and 12 columns
 ## Data Preprocessing:
   - Product category 2 and 3 has missing values, we will use SimpleImputer to fill missing values with median values.
   - Handle categorical columns Gender, Age, City_Category,Stay_In_Current_City_Years
+  - Drop UserID,Product_ID columns
   
 ## Modelling
+- Features(X): Gender, Age, Occupation,City_category, Stay_In_Current_City_Years,Marital_Status,Product_Category_1,Product_Category_2,Product_Category_3
+- Label: Purchase
+-  Train test split 75% training and 25% test set
+-  Evaluate using RMSE and RMSLE metric baseline model using LinearRegression,DecisionTreeRegressor and RandomForestRegressor. RandomForestRegressor() had the lowest RMSE and RMSLE score
+-  Apply GridSearchCV to find the best parameter for RandomForestRegressor
+![image](https://user-images.githubusercontent.com/103464406/218016171-9fa215b3-2bf6-44d3-8254-ec21ef14070a.png)
+![image](https://user-images.githubusercontent.com/103464406/218016268-492a5bd0-29f6-4f41-bf0c-1a464fae24f2.png)
+![image](https://user-images.githubusercontent.com/103464406/218016306-4d06a8f5-8ca3-45fd-886f-f4276418c282.png)
+- Product category_1 seem to have highest effect on purchase
+- - Surprisingly gender has the least effect on purchase
+
+
