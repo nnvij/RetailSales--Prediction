@@ -44,5 +44,7 @@ The dataset has 550,069 rows and 12 columns
 ![image](https://user-images.githubusercontent.com/103464406/218009337-43927dfc-6185-41c3-962d-3b76682ab88f.png)
 
 
-
+## Data Preprocessing:
+  - Product category 2 and 3 has missing values, we will use SimpleImputer to fill missing values with median values.
+  - Handle categorical columns Gender, Age, City_Category,Stay_In_Current_City_Years
 ## Modelling
