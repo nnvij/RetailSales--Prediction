@@ -29,10 +29,10 @@ The dataset has 550,069 rows and 12 columns
 
 
 ## Exploratory Data Analysis:
-![image](https://user-images.githubusercontent.com/103464406/218008842-3ff5da1d-85fd-4489-9bbd-3f4ad4162739.png)
+![image](https://user-images.githubusercontent.com/103464406/218009159-c83bd506-4ff6-4634-b1c7-e57f827911b1.png)
+![image](https://user-images.githubusercontent.com/103464406/218009176-bbb80aad-c939-47aa-aee2-ec0632fccf2b.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008866-1dfa6a86-e414-46f6-84bc-712937dc5f2b.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008941-34dc24c1-cc6c-4a11-8464-bcd4a7915ee2.png)
-
 ![image](https://user-images.githubusercontent.com/103464406/218008902-7e533e3d-dd7b-4e97-a5de-63caef13f217.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008959-c5f25aec-b153-41f6-a832-096b54905dc1.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008979-6911cf5c-b129-496c-a5c5-0259b3ea366b.png)
