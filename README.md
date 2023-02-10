@@ -65,6 +65,6 @@ The dataset has 550,069 rows and 12 columns
 ![image](https://user-images.githubusercontent.com/103464406/218016268-492a5bd0-29f6-4f41-bf0c-1a464fae24f2.png)
 ![image](https://user-images.githubusercontent.com/103464406/218016306-4d06a8f5-8ca3-45fd-886f-f4276418c282.png)
 - Product category_1 seem to have highest effect on purchase
-- - Surprisingly gender has the least effect on purchase
+- Surprisingly gender has the least effect on purchase
 
 
