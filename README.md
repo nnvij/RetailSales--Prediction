@@ -27,12 +27,18 @@ The dataset has 550,069 rows and 12 columns
 |     10    |     Product_Category_3     |  float64  |       Category of product       | True   |
 |     11    |          Purchase          |   int64   |         Purchase amount         | False  |
 
-Data Cleanning:
-
-- There are 5891 users in the dataset and 3631 uique products
-- 31% of Product_Category_2 and 69% of Product_Category_3 has missing values.
 
 ## Exploratory Data Analysis:
+![image](https://user-images.githubusercontent.com/103464406/218008842-3ff5da1d-85fd-4489-9bbd-3f4ad4162739.png)
+![image](https://user-images.githubusercontent.com/103464406/218008866-1dfa6a86-e414-46f6-84bc-712937dc5f2b.png)
+![image](https://user-images.githubusercontent.com/103464406/218008941-34dc24c1-cc6c-4a11-8464-bcd4a7915ee2.png)
+
+![image](https://user-images.githubusercontent.com/103464406/218008902-7e533e3d-dd7b-4e97-a5de-63caef13f217.png)
+![image](https://user-images.githubusercontent.com/103464406/218008959-c5f25aec-b153-41f6-a832-096b54905dc1.png)
+![image](https://user-images.githubusercontent.com/103464406/218008979-6911cf5c-b129-496c-a5c5-0259b3ea366b.png)
+![image](https://user-images.githubusercontent.com/103464406/218009029-9221bf47-b53e-4b32-a36e-0ef054141ce1.png)
+![image](https://user-images.githubusercontent.com/103464406/218009042-89c50ed4-cee5-4515-bfe1-124687d8eac7.png)
+
 
 
 ## Modelling
