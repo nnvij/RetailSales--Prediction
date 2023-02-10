@@ -29,15 +29,19 @@ The dataset has 550,069 rows and 12 columns
 
 
 ## Exploratory Data Analysis:
+![image](https://user-images.githubusercontent.com/103464406/218009404-3930913f-3c55-4b36-a7fd-b83e1bc80b04.png)
+- There are 5891 users in the dataset and 3631 uique products
+- 31% of Product_Category_2 and 69% of Product_Category_3 has missing values.
 ![image](https://user-images.githubusercontent.com/103464406/218009159-c83bd506-4ff6-4634-b1c7-e57f827911b1.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009176-bbb80aad-c939-47aa-aee2-ec0632fccf2b.png)
-![image](https://user-images.githubusercontent.com/103464406/218008866-1dfa6a86-e414-46f6-84bc-712937dc5f2b.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008941-34dc24c1-cc6c-4a11-8464-bcd4a7915ee2.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008902-7e533e3d-dd7b-4e97-a5de-63caef13f217.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008959-c5f25aec-b153-41f6-a832-096b54905dc1.png)
 ![image](https://user-images.githubusercontent.com/103464406/218008979-6911cf5c-b129-496c-a5c5-0259b3ea366b.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009029-9221bf47-b53e-4b32-a36e-0ef054141ce1.png)
 ![image](https://user-images.githubusercontent.com/103464406/218009042-89c50ed4-cee5-4515-bfe1-124687d8eac7.png)
+![image](https://user-images.githubusercontent.com/103464406/218009295-86f598f7-ed23-4b7d-a2a6-11f89aea1102.png)
+![image](https://user-images.githubusercontent.com/103464406/218009337-43927dfc-6185-41c3-962d-3b76682ab88f.png)
 
 
 
